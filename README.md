@@ -4,3 +4,4 @@
 - root: single-SPA
 - navbar: single-SPA parcel - React
 - footer: single-SPA parcel - Angular
+- app-home: vue
